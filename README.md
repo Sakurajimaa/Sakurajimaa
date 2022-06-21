@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sakurajimaa
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML 5 and CSS3
-- 💞️ I’m looking to collaborate on some company not too big 
+- 💞️ I’m looking to some more advice on programming
 - 📫 How to reach me pedromartung@gmail.com
 
 <!---
