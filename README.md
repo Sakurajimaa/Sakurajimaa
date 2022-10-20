@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sakurajimaa
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML 5 and CSS3
-- 💞️ I’m looking to some more advice on programming
-- 📫 How to reach me pedromartung@gmail.com
 
 <!---
 Sakurajimaa/Sakurajimaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
