@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakurajimaa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML 5 and CSS3
+- 🌱 I’m currently learning C#
 
 <!---
 Sakurajimaa/Sakurajimaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
